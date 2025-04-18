@@ -8,6 +8,7 @@
 ### **Languages**  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![YAML](https://img.shields.io/badge/-YAML-000?&logo=yaml)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=go)
