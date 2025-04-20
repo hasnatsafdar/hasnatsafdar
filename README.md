@@ -36,11 +36,12 @@
 
 - **🏠 Home Server & Automation** – Converted an old PC into a **home server** running **Proxmox**, with **VMs, Docker containers, Kubernetes clusters, and TrueNAS** for storage. Automated deployments and maintenance with **Ansible**.  
 
-- **💻 Custom Linux & WM Configurations** – Created and fine-tuned **custom configurations** for **Gentoo, Arch Linux**, and multiple **tiling window managers** for a more efficient workflow.  
+- **💻 Custom Linux & WM Configurations** – Created and fine-tuned **custom configurations** for **Gentoo, Arch Linux**, and multiple **tiling window managers** for a more efficient workflow. 
+*You can have a look at them in the **Dotfiles** repo*
 
 - **🧠 AI-Powered Programming Assistant** – Fine-tuned **Ollama** and other **local AI models** for **programming, automation, and troubleshooting**.  
 
-- **⚡ Python Automation & AI Integration** – Developed **Python** projects for **automation**, **daily tasks**, and **network management**, integrating **AI** for enhanced functionality. *You can have a look at them in the **Dotfiles** repo*
+- **⚡ Python Automation & AI Integration** – Developed **Python** projects for **automation**, **daily tasks**, and **network management**, integrating **AI** for enhanced functionality. 
 
 - **🔬 Raspberry Pi Pico Projects** – Built **fun and experimental projects** using a **Raspberry Pi Pico**
 
@@ -48,7 +49,7 @@
 <a href="https://github.com/hasnatsafdar">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=hasnatsafdar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnatsafdar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
+</a> 
 
 ## 📬 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/hasnat-safdar-88b4bb343)  
