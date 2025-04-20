@@ -40,12 +40,12 @@
 
 - **🧠 AI-Powered Programming Assistant** – Fine-tuned **Ollama** and other **local AI models** for **programming, automation, and troubleshooting**.  
 
-- **⚡ Python Automation & AI Integration** – Developed **Python** projects for **automation**, **daily tasks**, and **network management**, integrating **AI** for enhanced functionality.  
+- **⚡ Python Automation & AI Integration** – Developed **Python** projects for **automation**, **daily tasks**, and **network management**, integrating **AI** for enhanced functionality. *You can have a look at them in the **Dotfiles** repo*
 
 - **🔬 Raspberry Pi Pico Projects** – Built **fun and experimental projects** using a **Raspberry Pi Pico**
 
 ## 📊 GitHub Stats  
-<a href="https://github.com/hasnat-professional">
+<a href="https://github.com/hasnatsafdar">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=hasnatsafdar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnatsafdar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
