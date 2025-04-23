@@ -1,4 +1,5 @@
-//![Hasnat Safdar](./Hasnat-Safdar.png)
+<!-- ![Hasnat Safdar](./Hasnat-Safdar.png) -->
+
 
 # Hasnat Safdar  
 **Driven by Passion and Curiosity**  
