@@ -37,14 +37,14 @@
 
 - **🏠 Home Server & Automation** – Converted an old PC into a **home server** running **Proxmox**, with **VMs, Docker containers, Kubernetes clusters, and TrueNAS** for storage. Automated deployments and maintenance with **Ansible**.  
 
-- **💻 Custom Linux & WM Configurations** – Created and fine-tuned **custom configurations** for **Gentoo, Arch Linux**, and multiple **tiling window managers** for a more efficient workflow. 
+- **💻 Custom Linux & WM Configurations** – Created and fine-tuned **custom configurations** for **Fedora, Ubuntu , Arch Linux** etc, and multiple **tiling window managers** for a more efficient workflow. 
 *You can have a look at them in the **Dotfiles** repo*
 
-- **🧠 AI-Powered Programming Assistant** – Fine-tuned **Ollama** and other **local AI models** for **programming, automation, and troubleshooting**.  
+- **🧠 AI-Powered Programming Assistant** – Fine-tuned **Ollama** and other **local AI models** for **personal knowledge management**, **programming, automation, and troubleshooting**.  
 
 - **⚡ Python Automation & AI Integration** – Developed **Python** projects for **automation**, **daily tasks**, and **network management**, integrating **AI** for enhanced functionality. 
 
-- **🔬 Raspberry Pi Pico Projects** – Built **fun and experimental projects** using a **Raspberry Pi Pico**
+- **🔬 Microcontrollers Projects** – **Coming soon**
 
 ## 📊 GitHub Stats  
 <a href="https://github.com/hasnatsafdar">
