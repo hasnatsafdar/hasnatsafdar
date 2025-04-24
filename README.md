@@ -2,7 +2,7 @@
 
 
 # Hasnat Safdar  
-**Driven by Passion and Curiosity**  
+**"Student specializing in scalable agentic AI architectures, integrating Dapr, OpenAI Agents SDK, and cloud-native frameworks for resilient, modular systems."**  
 
 ## 🛠️ Languages & Technologies  
 
@@ -40,7 +40,7 @@
 - **💻 Custom Linux & WM Configurations** – Created and fine-tuned **custom configurations** for **Fedora, Ubuntu , Arch Linux** etc, and multiple **tiling window managers** for a more efficient workflow. 
 *You can have a look at them in the **Dotfiles** repo*
 
-- **🧠 AI-Powered Programming Assistant** – Fine-tuned **Ollama** and other **local AI models** for **personal knowledge management**, **programming, automation, and troubleshooting**.  
+- **🧠 AI-Powered Programming Assistant** – Fine-tuned **Ollama** and other **local and web-based AI models** for **personal knowledge management**, **programming, automation, and troubleshooting**.  
 
 - **⚡ Python Automation & AI Integration** – Developed **Python** projects for **automation**, **daily tasks**, and **network management**, integrating **AI** for enhanced functionality. 
 
