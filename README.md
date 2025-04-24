@@ -2,7 +2,7 @@
 
 
 # Hasnat Safdar  
-**"Student specializing in scalable agentic AI architectures, integrating Dapr, OpenAI Agents SDK, and cloud-native frameworks for resilient, modular systems."**  
+**"Aspiring Engineer specializing in scalable agentic AI architectures, integrating Dapr, OpenAI Agents SDK, and cloud-native frameworks for resilient, modular systems."**  
 
 ## 🛠️ Languages & Technologies  
 
