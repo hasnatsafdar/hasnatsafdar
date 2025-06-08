@@ -2,7 +2,8 @@
 
 
 # Hasnat Safdar  
-**"I'm an aspiring engineer focused on building scalable agentic AI systems. I work with tools like Dapr, the OpenAI Agents SDK, and cloud-native frameworks to create modular, resilient architectures."**  
+**"DevOps and Cloud enthusiast with hands-on experience in virtualization, infrastructure management,
+and self-hosting. Skilled in deploying secure, scalable systems across on-prem and cloud environments."**  
 
 ## 🛠️ Languages & Technologies  
 
