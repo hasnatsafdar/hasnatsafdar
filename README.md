@@ -5,6 +5,10 @@
 **"DevOps and Cloud enthusiast with hands-on experience in virtualization, infrastructure management,
 and self-hosting. Skilled in deploying secure, scalable systems across on-prem and cloud environments."**  
 
+## Contributions
+🧩 Contributed to:
+- [Yazi File Manager Docs](https://github.com/sxyazi/yazi) — improved documentation and user guide.
+
 ## 🛠️ Languages & Technologies  
 
 ### **Languages**  
