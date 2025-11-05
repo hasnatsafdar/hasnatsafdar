@@ -6,9 +6,7 @@
 and self-hosting. Skilled in deploying secure, scalable systems across on-prem and cloud environments."**  
 
 ## Contributions
-🧩 Contributed to:
-- [Yazi File Manager Docs](https://github.com/sxyazi/yazi) improved documentation and user guide.
-- [My Contribution](https://github.com/yazi-rs/yazi-rs.github.io/pull/237)
+- [My Contribution](https://github.com/yazi-rs/yazi-rs.github.io/pull/237) to [Yazi File Manager](https://github.com/sxyazi/yazi) improved documentation and user guide.
 
 ## 🛠️ Languages & Technologies  
 
