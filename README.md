@@ -7,18 +7,18 @@ and self-hosting. Skilled in deploying secure, scalable systems across on-prem a
 
 ## Contributions
 - [My Contribution](https://github.com/yazi-rs/yazi-rs.github.io/pull/237) to [Yazi File Manager](https://github.com/sxyazi/yazi) improved documentation and user guide.
-- [My Contribution](https://github.com/hasnatsafdar/omarchy/pull/1/commits/9a3b3f9870ccab40a5afb64c8a7130b4302a975e) to [Omarchy Linux](https://github.com/basecamp/omarchy) Fixed video transcoding bash function. (Pending...)
+- [My Contribution](https://github.com/hasnatsafdar/omarchy/pull/1/commits/9a3b3f9870ccab40a5afb64c8a7130b4302a975e) to [Omarchy Linux](https://github.com/basecamp/omarchy) fixed video transcoding bash function. (Pending...)
 
 ## 🛠️ Languages & Technologies  
 
 ### **Languages**  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![YAML](https://img.shields.io/badge/-YAML-000?&logo=yaml)
-![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=go)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![YAML](https://img.shields.io/badge/-YAML-000?&logo=yaml)
 
 ### **Technologies & Tools**  
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
