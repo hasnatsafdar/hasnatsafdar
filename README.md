@@ -7,6 +7,7 @@ and self-hosting. Skilled in deploying secure, scalable systems across on-prem a
 
 ## Contributions
 - [My Contribution](https://github.com/yazi-rs/yazi-rs.github.io/pull/237) to [Yazi File Manager](https://github.com/sxyazi/yazi) improved documentation and user guide.
+- [My Contribution](https://github.com/hasnatsafdar/omarchy/pull/1/commits/9a3b3f9870ccab40a5afb64c8a7130b4302a975e) to [Omarchy Linux](https://github.com/basecamp/omarchy) Fixed video transcoding bash function. (Pending...)
 
 ## 🛠️ Languages & Technologies  
 
